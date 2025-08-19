@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @OyenekanEsther
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Python for data science
-- 💞️ I’m looking to collaborate on Data science Project
 
 
 <!---
